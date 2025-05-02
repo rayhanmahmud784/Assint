@@ -341,19 +341,19 @@ display: flex;
  /* body4 section */
 
  .bix10{
-    width: 756px;
+   width: 756px;
     height: 700px;
     display: flex;
     
  }
 
 .bix4{
-    font-size: 40px;
+     font-size: 40px;
    padding: 30px;
    display: flex;
 } 
 .bix5{
-   border: 1px solid black;
+    border: 1px solid black;
    width: 626px;
    height: 100px;
    border-radius: 20px;
@@ -395,7 +395,6 @@ display: flex;
    padding: 20px;
    gap: 10px;
 }
-
 
 
 /* body4 section */
